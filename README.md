@@ -4,7 +4,7 @@ AI-powered website that simulates conversations with **Hitesh Choudhary** or **P
 
 ## Live demo
 
-> URL - `https://persona-chat-two.vercel.app/`
+> URL - https://learn-gi-persona-chat.vercel.app/
 
 ## Features
 
